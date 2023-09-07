@@ -1,0 +1,11 @@
+commit 3cff355b51ab51a5acdd717c7ce03cdacc83af3c
+Author: CCDM06 <CCMD06@CCDM06.local>
+Date:   Thu Sep 7 12:41:03 2023 -0700
+
+    Titulo y encabezado
+
+commit 26737efc0c006dd3b4d3a112d23a18e2e74d42e1
+Author: CCDM06 <CCMD06@CCDM06.local>
+Date:   Thu Sep 7 12:35:39 2023 -0700
+
+    Commit inicial
