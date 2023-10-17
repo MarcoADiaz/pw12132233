@@ -1,0 +1,95 @@
+body{
+    /*border: 1px solid red;*/
+    font-size: 16px;
+    margin: 0px auto;
+    max-width: 1024px;
+}
+footer article{
+    /*border: 1px solid red;*/
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: top;
+    width: 18%;
+}
+footer article ul{
+    list-style: none;
+    text-align: left;
+    margin-left: -35px;
+}
+header>article{
+    /*border: 1px solid red;*/
+    display: inline-block;
+    vertical-align: top;
+}
+header article nav ul li{
+    display: inline-block;
+    padding: 8px 10px;
+    text-align: center;
+}
+hr{
+    border-style: dashed;
+    color: #949494;
+}
+section article{
+   /* border: 1px solid red;*/
+    display: inline-block;
+    vertical-align: top;
+}
+#HeaderArticle02{
+    width: 28%;
+    margin-left: 70px;
+}
+#HeaderArticle02A01{
+    text-align: right;
+    width: 100%;
+}
+#HeaderArticle02A01 img{ 
+    width: 20px;
+}
+#HeaderArticle02A02{
+    text-align: center;
+    width: 100%;
+}
+#HeaderArticle02A02 img{ 
+    width: 150px;
+}
+#HeaderArticle02A03{
+    text-align: left;
+    width: 100%;
+}
+#HeaderArticle02A03 img{ 
+    width: 50px;
+}
+#sectionArticle01{
+    width: 50%;
+}
+#sectionArticle01 img{
+    display: inline-block;
+    width: 250px;
+}
+#sectionArticle02 {
+    text-align: left;
+    width: 30%;
+}
+#sectionArticle02Bike{
+    position: absolute;
+    width: 350px;
+}
+#sectionArticle025Years{
+    text-align: left;
+    padding-top: 350px;
+    position: absolute;
+    width: 120px;
+}
+.gris{
+    color: grey;
+}
+.letra-grande{
+    font-size: 4em;
+}
+.nito{
+     font-weight: bold;
+}
+.verde{
+    color: greenyellow;
+}
