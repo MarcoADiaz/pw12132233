@@ -1,0 +1,105 @@
+body{
+   /* border: 1px solid red; */
+    background: #e9eaeb;
+    font-size: 16px;
+    margin: 0px auto;
+    max-width: 1024px;
+}
+header article{
+    background: #375b96;
+    text-align: center;
+}
+header nav{
+    background: #e9eaeb;
+    text-align: right;
+}
+article[id*="ACubo"]{
+    border-radius: 5px;
+    display: inline-block;
+    height: 153px;
+    text-align: center;
+    width: 23%;
+}
+article[id*="AUsuario"]{
+    background: #4a6aae;
+    display: inline-block;
+    text-align: center;
+    width: 23%;
+}
+img[src*="barra"]{
+    width: 227px;
+}
+img[src*="cubo"]{
+    width: 120px;
+}
+img[alt="panels"]{
+    text-align: center;
+    width: 740px;
+}
+img[alt*="usuario"]{
+    width: 120px;
+}
+#ACubo1{
+    background: #19a820;
+}
+#ACubo2{
+    background: #1b6da9;
+}
+#ACubo3{
+    background: #7f1aa8;
+}
+#ACubo4{
+    background: #a71a19;
+}
+#seccion01{
+   /* border: 1px solid red; */
+    background: #e9eaeb;
+    position: absolute;
+    width: 230px;
+}
+#S01Article01{
+    background: #1e4973;
+   /* border: 1px solid red; */
+    width: 227px;
+}
+#S01Article01 ul{
+    list-style: none;
+    color: white;
+}
+#S01Article02{
+    background: white;
+   /* border: 1px solid red; */
+    width: 227px;
+}
+#S01Article02 header{
+    background: #375b96;
+    color: white;
+}
+#S01Article02 header span{ /* Falta poner el texto en el medio con la imagen */
+    padding-top: -10px;
+}
+#seccion02{
+    /* border: 1px solid red; */
+    background: white;
+    border-radius: 5px;
+    margin-left: 229px;
+    position: absolute;
+    width: 795px;
+}
+.blanca{
+    color: white;
+}
+.boton{
+    background: #5bc0de;
+    border-radius: 5px;
+    color: white;
+}
+.gris{
+    color: gray;
+}
+.letra-chica{
+    font-size: 12px;
+}
+.letra-mediana{
+    font-size: 20px;
+}
