@@ -1,0 +1,161 @@
+body{
+    font-size: 16px;
+    margin: 0px auto;
+    max-width: 1024px;
+    background: #dadbf1;
+}
+header nav{
+    background: black;
+    display: inline-block;
+    height: 60px;
+    width: 100%;
+}
+img[alt="logo-abstract"]{
+    width: 40px;
+    position: absolute;
+    padding-left: 60px;
+    padding-top: 7px;
+}
+img[alt^="I_"]{
+    float: left;
+    width: 60px;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+img[alt="I_billing"]{
+    padding-top: 0;
+    padding-right: 20px;
+    width: 50px;
+}
+img[alt="logo-Abs-F"]{
+    width: 40px;
+}
+footer{
+    background: black;
+    height: 250px;
+}
+#SuperFooter{
+    text-align: center;
+    padding: 10px 40px 0px 40px;
+}
+#FArticle05{
+    padding-top: 90px;
+    vertical-align: bottom;
+}
+#SuperFooter article{
+    width: 18%;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+}
+#botones{
+    float: right;
+    vertical-align: top;
+    padding-top: 15px;
+    width: 200px;
+}
+#textoHeader{
+    position: absolute;
+    padding-left: 100px;
+    margin-top: 17px;
+}
+#b_sign{
+    background: #4b5fd5;
+    border-radius: 5px;
+    color: white;
+    width: 60px;
+    height: 30px;
+}
+#b_submit{
+    background: #181a1c;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    height: 30px;
+}
+#seccion01{
+    background: #dadbf1;
+    height: 300px;
+    text-align: center;
+}
+#seccionC{
+    background: white;
+}
+#spanGrande{
+    margin-top: 30px;
+}
+#spanInput{
+    position: absolute;
+    margin-left: -250px;
+    margin-top: 30px;
+    margin-bottom: -60px;
+}
+#search{
+    width: 500px;
+    height: 40px;
+}
+#seccion01 article{
+    width: 100%;
+    height: 250px;
+    padding-top: 40px;
+    vertical-align: bottom;
+}
+#SCentro01{
+    padding-top: 40px;
+    text-align: center;
+}
+#SCentro01 article{
+    width: 40%;
+    display: inline-block;
+    text-align: left;
+    margin-right: 20px;
+}
+#SCentro02{
+    padding-top: 40px;
+    text-align: center;
+    vertical-align: top;
+}
+#SCentro02 article{
+    width: 40%;
+    display: inline-block;
+    text-align: left;
+    margin-right: 20px;
+}
+#SC02Article02{
+    height: 121.6px;
+    vertical-align: top;
+}
+#SCentro03{
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+#SCentro03 article{
+    width: 40%;
+    display: inline-block;
+    text-align: left;
+    margin-right: 20px;
+}
+#SC03Article02{
+    height: 121.6px;
+    vertical-align: top;
+}
+#LM_E{
+    padding-left: 72px;
+}
+.blanca{
+    color: white;
+}
+.nito{
+    font-weight: bold;
+}
+.letra-chica{
+    font-size: 12px;
+}
+.letra-grande{
+    font-size: 3.8em;
+}
+.learn-more{
+    padding-left: 72px;
+    color: #8b9be3;
+}
