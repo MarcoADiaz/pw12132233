@@ -1,0 +1,77 @@
+body{
+    font-size: 16px;
+    margin: 0px auto;
+    max-width: 1024px;
+}
+header{
+    width: 100%;
+    display: inline-block;
+}
+header nav article{
+    display: inline-block;
+    text-align: left;
+    width: 32%;
+}
+#section01 article{
+    text-align: center;
+    width: 100%;
+}
+#section02 article{
+    display: inline-block;
+}
+#S02Article01{
+    width: 13%;
+    vertical-align: top;
+}
+#S02Article02{
+    width: 25%;
+    vertical-align: top;
+}
+#S02Article03{
+    width: 30%;
+}
+#S02Article04{
+    width: 30%;
+}
+#section03{
+    text-align: right;
+}
+#S03Span02{
+    margin-right: 100px;
+}
+#S03Span01{
+    width: 150px;
+}
+#section04{
+    width: 100%;
+}
+#section04 article{
+    display: inline-block;
+}
+#S04Article01{
+    width: 68%;
+}
+#S04Article01 img{
+    width: 100%;
+}
+#S04Article02{
+    height: 100%;
+    vertical-align: top;
+    width: 30%;
+}
+#S04Article02 img{
+    height: 100%;
+    width: 100%;
+}
+.letra-grande{
+    font-size: 8em;
+}
+.nito{
+    font-weight: bold;
+}
+.R{
+    text-align: right;
+}
+.blanca{
+    color: lightgray;
+}
